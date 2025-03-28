@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Bottle 1",
+    "description": "A sleek and modern water bottle.",
+    "image": "https://via.placeholder.com/150",
+    "color": "Blue",
+    "price": 15.99,
+    "weight": "250g",
+    "brand": "Brand A"
+  },
+  {
+    "id": 2,
+    "name": "Bottle 2",
+    "description": "An eco-friendly glass bottle.",
+    "image": "https://via.placeholder.com/150",
+    "color": "Green",
+    "price": 20.49,
+    "weight": "300g",
+    "brand": "Brand B"
+  },
+  {
+    "id": 3,
+    "name": "Bottle 3",
+    "description": "A stainless steel bottle for hot and cold drinks.",
+    "image": "https://via.placeholder.com/150",
+    "color": "Silver",
+    "price": 25.99,
+    "weight": "350g",
+    "brand": "Brand C"
+  },
+  {
+    "id": 4,
+    "name": "Bottle 4",
+    "description": "A vibrant colored bottle with a unique design.",
+    "image": "https://via.placeholder.com/150",
+    "color": "Red",
+    "price": 18.75,
+    "weight": "280g",
+    "brand": "Brand D"
+  },
+  {
+    "id": 5,
+    "name": "Bottle 5",
+    "description": "A portable and lightweight sports bottle.",
+    "image": "https://via.placeholder.com/150",
+    "color": "Black",
+    "price": 12.99,
+    "weight": "220g",
+    "brand": "Brand E"
+  }
+]
